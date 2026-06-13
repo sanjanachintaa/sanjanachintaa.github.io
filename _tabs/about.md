@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hey, I'm Sanjana 👋
+A CSE(Cybersecurity) student at FAMT, expected to graduate in 2028. This blog is where I document my journey into cybersecurity; the wins, the struggles, and everything I learn along the way.
