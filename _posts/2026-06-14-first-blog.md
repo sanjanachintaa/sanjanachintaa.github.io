@@ -1,6 +1,6 @@
 ---
-title: "Hello World"
-date: 2024-01-01 00:00:00 +0000
+title: "First Blog"
+date: 2026-06-14 00:00:00 +0000
 categories: [Tech]
 tags: [intro]
 ---
@@ -45,6 +45,7 @@ tags: [intro]
 ---
 start writing here
 ```
+also ensure that the date in the file matches the date in the front matter.
 
 **Step 3:** Once you are finished you can commit changes. Now you can either wait a couple minutes or go to the Actions tab again to stare at github "cooking" like you stare into the microwave while it finishes baking.
 
