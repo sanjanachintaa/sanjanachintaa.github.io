@@ -5,10 +5,6 @@ categories: [Tech]
 tags: [intro]
 ---
 
-Here's the updated version with Step 1.5 added:
-
----
-
 Hello!
 This is my first blog post!
 This post was originally about to be an introduction to me, Sanjana Chinta. Hii !! I am a cybersecurity student at FAMT, Ratnagiri expected to graduate in 2028. As im entering my 3rd year where the real magic about cybersecurity starts, i decided to document my journey in learning as much as i can about this domain as someone who is starting from ground zero. When i picked this course back in 2024 after my 12th, Cybersecurity seemed to be a fascinating and interesting domain. And i just hope it lives up to my expectations!
